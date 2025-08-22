@@ -71,30 +71,7 @@ const Achievements = () => {
         </div>
 
         {/* Additional achievements section */}
-        <div className="mt-20 grid lg:grid-cols-3 gap-8">
-          <Card className="lg:col-span-2 bg-gradient-card border-border shadow-golden">
-            <CardContent className="p-8">
-              <h3 className="text-2xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
-                Digital Innovation
-              </h3>
-               <p className="text-muted-foreground mb-6">
-                Enhanced our mobile technology trading services with improved inventory management, 
-                competitive pricing, and streamlined order processing, reducing transaction time by 60%.
-              </p>
-              <div className="flex flex-wrap gap-4">
-                <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg border border-primary/20">
-                  AI-Powered Analytics
-                </div>
-                <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg border border-primary/20">
-                  Real-time Tracking
-                </div>
-                <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg border border-primary/20">
-                  Automated Processing
-                </div>
-              </div>
-            </CardContent>
-          </Card>
-
+        <div className="mt-20 grid lg:grid-cols-1 gap-8">
           <Card className="bg-gradient-card border-border shadow-golden">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">

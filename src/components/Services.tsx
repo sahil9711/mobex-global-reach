@@ -18,7 +18,7 @@ const Services = () => {
     {
       icon: <Users className="h-12 w-12" />,
       title: "Expert Team Support",
-      description: "Dedicated on-site team in Dubai providing 24/7 support and consultation for all your trading needs.",
+      description: "Dedicated on-site teams in Dubai, USA and India providing 24/7 support and consultation for all your trading needs.",
       gradient: "from-pink-500 to-orange-600"
     },
     {
