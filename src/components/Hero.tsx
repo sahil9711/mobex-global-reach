@@ -64,7 +64,7 @@ const Hero = () => {
             <div className="grid grid-cols-1 gap-6 max-w-sm">
               <div className="bg-gradient-card p-6 rounded-2xl border border-border shadow-golden">
                 <div className="text-3xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  200K+
+                  50K+
                 </div>
                 <div className="text-muted-foreground mt-2">
                   Devices traded annually
@@ -73,7 +73,7 @@ const Hero = () => {
               
               <div className="bg-gradient-card p-6 rounded-2xl border border-border shadow-golden">
                 <div className="text-3xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  50+
+                  100+
                 </div>
                 <div className="text-muted-foreground mt-2">
                   Global partners

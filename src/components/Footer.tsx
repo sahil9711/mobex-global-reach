@@ -42,7 +42,7 @@ const Footer = () => {
               <p>DAFZA, Dubai Airport Free Zone</p>
               <p>Dubai, United Arab Emirates</p>
               <p>info@mobexinternational.com</p>
-              <p>+971 4 XXX XXXX</p>
+              <p>+971569443529 / +19293301131</p>
             </div>
           </div>
         </div>

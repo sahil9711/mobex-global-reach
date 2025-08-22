@@ -5,8 +5,8 @@ const Services = () => {
   const services = [
     {
       icon: <Smartphone className="h-12 w-12" />,
-      title: "B2B Trading Platform",
-      description: "Advanced digital platform for seamless mobile device trading with real-time inventory and pricing.",
+      title: "Mobile Device Trading",
+      description: "Comprehensive mobile device trading services with premium quality assurance and competitive pricing.",
       gradient: "from-blue-500 to-purple-600"
     },
     {

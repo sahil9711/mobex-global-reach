@@ -20,14 +20,14 @@ const About = () => {
               </p>
               
               <p>
-                With our advanced B2B platform, extensive logistics network, and expert team, 
-                we've established ourselves as the trusted partner for businesses worldwide 
-                seeking premium mobile technology trading services.
+                With our extensive logistics network and expert team, we've established ourselves 
+                as the trusted partner for businesses worldwide seeking premium mobile technology 
+                trading services.
               </p>
               
               <p>
                 Our commitment to innovation, reliability, and excellence has made us a preferred 
-                choice for partners across 50+ countries, handling over 200,000 devices annually.
+                choice for partners globally, with presence in UAE, USA and India, handling over 50,000 devices annually.
               </p>
             </div>
           </div>
@@ -84,10 +84,10 @@ const About = () => {
               <Card className="bg-gradient-card border-border shadow-golden">
                 <CardContent className="p-6 text-center">
                   <div className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-2">
-                    Africa
+                    USA
                   </div>
                   <div className="text-muted-foreground text-sm">
-                    Nigeria, Kenya, South Africa
+                    North & South America
                   </div>
                 </CardContent>
               </Card>

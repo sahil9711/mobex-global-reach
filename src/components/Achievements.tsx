@@ -5,21 +5,21 @@ const Achievements = () => {
   const achievements = [
     {
       icon: <TrendingUp className="h-8 w-8" />,
-      number: "200K+",
+      number: "50K+",
       label: "Devices Traded",
-      description: "Successfully facilitated trading of over 200,000 mobile devices in the last year"
+      description: "Successfully facilitated trading of over 50,000 mobile devices in the last year"
     },
     {
       icon: <Users className="h-8 w-8" />,
-      number: "x3",
+      number: "4X",
       label: "Team Growth",
-      description: "Tripled our expert team size to better serve our growing global client base"
+      description: "Quadrupled our expert team size to better serve our growing global client base"
     },
     {
       icon: <Award className="h-8 w-8" />,
-      number: "50+",
+      number: "100+",
       label: "New Partners",
-      description: "Established partnerships with 50+ new suppliers and distributors worldwide"
+      description: "Established partnerships with 100+ new suppliers and distributors worldwide"
     },
     {
       icon: <Globe className="h-8 w-8" />,
@@ -77,9 +77,9 @@ const Achievements = () => {
               <h3 className="text-2xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
                 Digital Innovation
               </h3>
-              <p className="text-muted-foreground mb-6">
-                Launched our revolutionary B2B trading platform with AI-powered inventory management, 
-                real-time pricing, and automated order processing, reducing transaction time by 60%.
+               <p className="text-muted-foreground mb-6">
+                Enhanced our mobile technology trading services with improved inventory management, 
+                competitive pricing, and streamlined order processing, reducing transaction time by 60%.
               </p>
               <div className="flex flex-wrap gap-4">
                 <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg border border-primary/20">
